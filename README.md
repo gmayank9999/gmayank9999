@@ -16,7 +16,7 @@ A Tech Enthusiast  excited about building the future
 
 
 <hr />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGupta0007&" alt="AryanGupta0007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmayank9999&" alt="gmayank9999" /></p>
 <h2 align="center">Connect with me<h2>
  <div align="center">
   <a href="https://www.linkedin.com/in/mayank-gupta-81ab6727b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
