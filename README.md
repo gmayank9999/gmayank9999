@@ -1,8 +1,5 @@
 ### Hi There, Mayank Here👋
 A Tech Enthusiast  excited about building the future 
-- Web-Designer and Front-end Developer
-- Knows Figma, HTML, CSS and Javascript
-- Learning MERN Stack Development 
 
 
 ### ⚙️ &nbsp;GitHub Analytics
